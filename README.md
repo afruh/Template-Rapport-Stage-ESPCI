@@ -13,4 +13,4 @@ la couleur bleue utilisée par la charte graphique est utilisable en utilisant `
 
 ## Modifier la police
 1. Il suffit de changer les fichiers `.otf` et mettre vos fichiers de polices.
-2. Il faut reporter les modifications dans `config/settings.tex` ligne 24. Changer l'extension si nécessaire et les autres paramètres en fonctions des polices importer ( BoldFont permet d'utiliser la commande `\textbf{}` ). ATTENTION : laisser le même nom pour la commande `\cera`, sinon il faudra changer le reste du fichier.
+2. Il faut reporter les modifications dans `config/settings.tex` ligne 29. Changer l'extension si nécessaire et les autres paramètres en fonctions des polices importer ( BoldFont permet d'utiliser la commande `\textbf{}` ). ATTENTION : laisser le même nom pour la commande `\cera`, sinon il faudra changer le reste du fichier.
