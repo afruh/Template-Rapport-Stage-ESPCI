@@ -14,3 +14,6 @@ la couleur bleue utilisée par la charte graphique est utilisable en utilisant `
 ## Modifier la police
 1. Il suffit de changer les fichiers `.otf` et mettre vos fichiers de polices.
 2. Il faut reporter les modifications dans `config/settings.tex` ligne 29. Changer l'extension si nécessaire et les autres paramètres en fonctions des polices importer ( BoldFont permet d'utiliser la commande `\textbf{}` ). ATTENTION : laisser le même nom pour la commande `\cera`, sinon il faudra changer le reste du fichier.
+
+## Filigrane (Confidentiel par exemple)
+Il faut décommenter les lignes 11 à 15 du fichier main.tex, puis les modifier comme bon vous semble. N'hésitez pas à regarder la docmentation du package draftwatermark
