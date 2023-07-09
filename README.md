@@ -12,8 +12,7 @@ la couleur bleue utilisée par la charte graphique est utilisable en utilisant `
 `sources.bib` permet de gérer la bibliographie et d'utiliser la commande `\cite{référence_article}` pour citer une référence.
 
 ## Modifier la police
-Pour remettre la police du corps de texte comme initialement dans Latex:
-Il sufit de commenter la commande `\usepackage{CormorantGaramond}` dans les premières lignes de `main.tex`.
+Pour remettre la police du corps de texte comme initialement dans Latex: il sufit de commenter la commande `\usepackage{CormorantGaramond}` dans les premières lignes de `main.tex`.
 
 Pour les titres il faut : 
 1. Il suffit de changer les fichiers `.otf` et mettre vos fichiers de polices.
